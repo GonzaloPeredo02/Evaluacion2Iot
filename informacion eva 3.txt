@@ -1,0 +1,15 @@
+correo: firebaseiot15@gmail.com
+contraseña: 188938337F
+
+nombre base de datos: LoginAndroid
+		loginandroid-b8246
+nombre package:com.example.firebaseiot
+
+link github:https://github.com/GonzaloPeredo02/Evaluacion3Iot.git
+
+profesor: Cristofher Rojas
+integrantes: Gonzalo Peredo - Vicente Salgado
+
+cuenta test
+correo: test2@test.cl
+contraseña: 123456
